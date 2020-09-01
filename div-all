@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.mydiv {
+border: 9px outset right;
+background-color: orange;
+text-align: right;
+}
+</style>
+</head>
+<body>
+<h1>divisons</h1>
+<div class="myDiv">
+
+<style>
+table, th, td {
+border: 4px solid navy;
+padding: 5px;
+}
+table {
+border spacing: 1px;
+}
+</style>
+</head>
+<style>
+table, th, td {
+border: 4px solid navy;
+padding: 5px;
+}
+table {
+border spacing: 1px;
+}
+</style>
+</head>
+<style>
+table, th, td {
+border: 4px solid navy;
+padding: 5px;
+}
+table {
+border spacing: 1px;
+}
+</style>
+</head>
+<body><h2> Marksheet</h2>
+<table style="width:80%">
+<tr>
+<th> subject</th>
+<th> marks</th>
+</tr>
+<tr>
+<td> thermo dynamics</td>
+<td> 8</td>
+</tr>
+<tr>
+<td> nano tech</td>
+<td> 8</td>
+</tr>
+<tr>
+<td> MOS</td>
+<td> 9</td>
+</tr>
+</table>
+<h3> Html links</h3>
+		<p><a href="file:///C:/Users/korup/OneDrive/Documents/ordered%20unordered%20list.htm">ordered unordered list</a></p>
+</body>
+</html>
+
